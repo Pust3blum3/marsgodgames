@@ -43,7 +43,7 @@ RobotBase::RobotBase(Pathfinding::Node* startingnode, float maximumvelocity, flo
 
 	//TODO Enable
 	//Model
-	setModel("models\\Rover.obj");
+	setModel("models\\Harvest.obj");
 	_rotationPlacement->AddGeo(getModel());
 	_rotationPlacement->ScaleDelta(0.01);
 

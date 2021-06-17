@@ -12,7 +12,7 @@ public:
         howMuch = 60;
         Category = BuildingCategory::Farming;
 
-        setModel("models\\monkey.obj");
+        setModel("models\\pumpe.obj");
         // set material
 
         //setAudio(&CAudioManager::Instance().Local_Well);

@@ -11,7 +11,7 @@ public:
 
         Category = BuildingCategory::None;
 
-        setModel("models\\monkey.obj");
+        setModel("models\\launchpad.obj");
         // set material
     }
 

@@ -11,7 +11,7 @@ public:
 
         Category = BuildingCategory::Industry;
 
-        setModel("models\\monkey.obj");
+        setModel("models\\felshaufen.obj");
         // set material
         setAudio(&CAudioManager::Instance().Local_Mine);
     }

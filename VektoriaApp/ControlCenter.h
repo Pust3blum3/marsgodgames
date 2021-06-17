@@ -12,7 +12,7 @@ public:
 
         Category = BuildingCategory::None;
 
-        setModel("models\\monkey.obj");
+        setModel("models\\controlcenter.obj");
         // set material
         
         //setAudio(&CAudioManager::Instance().Local_ControlCenter);
